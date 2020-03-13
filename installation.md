@@ -1,20 +1,13 @@
 Anaconda installation links:
-
-        a)[windows](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)
-        
+        [a)windows:-](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)
         [b)MAC :-](https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.pkg)
-        
         [c)LINUX:-](https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh)
 
-Python installation links:
-        
+Python installation links:   
         [a)WINDOWS:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
-            
-        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)
-             
+        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)        
         [c)LINUX:-](https://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz)
              
-
 Pip installation links :
     check if pip is installed previously or not by typing below command in your cmd
     ->pip :-help if it responds then pip is insatlled.
