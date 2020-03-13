@@ -5,7 +5,7 @@ Anaconda installation links:<br>
 
 Python installation links:   
         [a)WINDOWS:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)<br>
-        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)  <br>      
+        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)     
         [c)LINUX:-](https://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz)
              
 Pip installation links :
