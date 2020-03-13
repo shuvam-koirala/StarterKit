@@ -1,6 +1,6 @@
 Anaconda installation links:
 
-        a)[WINDOWS]:-(https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)
+        a)[WINDOWS](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)
         
         [b)MAC :-](https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.pkg)
         
