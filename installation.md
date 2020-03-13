@@ -1,11 +1,11 @@
-Anaconda installation links:
-        [a)windows:-](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)
-        [b)MAC :-](https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.pkg)
+Anaconda installation links:<br>
+        [a)windows:-](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe)<br>
+        [b)MAC :-](https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.pkg)<br>
         [c)LINUX:-](https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh)
 
 Python installation links:   
-        [a)WINDOWS:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
-        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)        
+        [a)WINDOWS:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)<br<
+        [b)MAC:-](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)  <br>      
         [c)LINUX:-](https://www.python.org/ftp/python/3.8.2/Python-3.8.2.tgz)
              
 Pip installation links :
