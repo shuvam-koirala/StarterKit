@@ -1,0 +1,13 @@
+Pip installation links :
+    check if pip is installed previously or not by typing below command in your cmd
+    ->pip :-help if it responds then pip is insatlled.
+    ->python  :-to check if python is installed.
+    
+  a)Download the file to the desired folder in Windows from link :- https://bootstrap.pypa.io/get-pip.py   
+    You can save the file to any location, 
+    but remember the path so you can use it later.
+  b)Type cmd in the Windows search bar and click the “Command Prompt” icon.
+  c)To run the Command Prompt window “As Administrator,” right-click “Command Prompt” and then select the “Run as…” option.
+  d)Then type these commands:-
+   ->python get-pip.py
+   ->pip --version   
